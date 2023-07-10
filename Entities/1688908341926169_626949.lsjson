@@ -1,0 +1,39 @@
+{
+    "1688908341920905:626942": {
+        "IFileManager": {
+            "path": "Files/File_1688908341920905_626942"
+        }
+    },
+    "1688908341926169:626949": {
+        "IResourceController": {
+            "name": "Post Effect",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1688908341926181:626950",
+            "fileId": "1688908341920905:626942",
+            "originalId": "1688908342031644:626980",
+            "publicId": "1688908342830663:627251",
+            "expected_hash": "a004b8edfe217c9da95ebd39bbf20b41"
+        },
+        "IResourceManager": {
+            "uid": "1688908341926181:626950",
+            "name": "Files/File_1688908341920905_626942",
+            "flags": 1
+        }
+    },
+    "1688908342031644:626980": {
+        "IFileManager": {
+            "path": "Files/File_1688908342031644_626980.lsmat"
+        }
+    },
+    "1688908342830663:627251": {
+        "IResourceController": {
+            "public": {
+                "path": "Post Effect.lsmat",
+                "hash": "03a9e73125940a3c50d46d10ec94b192"
+            }
+        }
+    }
+}

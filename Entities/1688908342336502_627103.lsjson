@@ -1,0 +1,42 @@
+{
+    "1688908342332048:627102": {
+        "IFileManager": {
+            "path": "Files/File_1688908342332048_627102.png"
+        }
+    },
+    "1688908342336502:627103": {
+        "IResourceController": {
+            "name": "Beauty",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1688908342338412:627104",
+            "fileId": "1688908342332048:627102",
+            "originalId": "1688908342339921:627109",
+            "publicId": "1688908342370877:627117",
+            "expected_hash": "a276acaed7d65e4c1b56181771677a77",
+            "additional": {
+                "originHash": "a276acaed7d65e4c1b56181771677a77"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1688908342338412:627104",
+            "name": "Files/File_1688908342332048_627102.jpg",
+            "flags": 1
+        }
+    },
+    "1688908342339921:627109": {
+        "IFileManager": {
+            "path": "Files/File_1688908342339921_627109.png"
+        }
+    },
+    "1688908342370877:627117": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Beauty.png",
+                "hash": "a276acaed7d65e4c1b56181771677a77"
+            }
+        }
+    }
+}

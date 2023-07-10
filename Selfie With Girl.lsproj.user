@@ -1,0 +1,87 @@
+{
+    "InspectorUiComponent": {
+        "collapsedList": [
+            []
+        ]
+    },
+    "MapUiComponent": {},
+    "Material::UiComponent": {
+        "active_graph_asset": "1688909129002463:863537"
+    },
+    "MetaInfoUIComponent": {},
+    "ObjectTracking3DUIComponent": {
+        "foldedOwnerSceneObjects": []
+    },
+    "PreviewUiComponent": {},
+    "ResourceUiComponent": {
+        "collapsedList": [
+            [
+                [
+                    "BW"
+                ],
+                [
+                    "Post Effect"
+                ],
+                [
+                    "Smoothing"
+                ],
+                [
+                    "Textures"
+                ],
+                [
+                    "Textures",
+                    "Beauty"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture"
+                ],
+                [
+                    "e3573d21e3db35f533c68208817b8372-removebg-preview"
+                ],
+                [
+                    "e3573d21e3db35f533c68208817b8372-removebg-preview-modified"
+                ]
+            ]
+        ]
+    },
+    "SceneTreeUiComponent": {
+        "collapsedList": [
+            []
+        ],
+        "selectionSetList": {}
+    },
+    "Script::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "VFX::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "IFileManager": {},
+    "IResourceManager": {},
+    "InspectorComponent": {},
+    "LayerComponent": {},
+    "RemoteApi::ModelManager": {},
+    "RenderOrderComponent": {},
+    "WorldComponent": {},
+    "AssetImportController": {},
+    "Compression::IController": {},
+    "DigitalGoodsController": {},
+    "IResourceController": {
+        "sourcePaths": {
+            "1688908254198636:601490": "C:/Program Files/Snap Inc/Lens Studio//Studio3DResources.bundle/post_effects/BW.png",
+            "1688908280549490:608242": "C:/Users/HP/Downloads/e3573d21e3db35f533c68208817b8372-removebg-preview.png",
+            "1688908342336502:627103": "C:/Users/HP/AppData/Local/Snap/Lens Studio/cache/temp/StudiooKMyGExuwaAY//system//emergencyFiles/emergencyJpg.jpg",
+            "1688908942621568:813661": "C:/Users/HP/Downloads/e3573d21e3db35f533c68208817b8372-removebg-preview-modified.png"
+        }
+    },
+    "InspectorController": {
+        "selection": {
+            "objects": [
+                "1688908267947967:603813"
+            ]
+        }
+    },
+    "ObjectPrefabController": {},
+    "ObjectTracking3DController": {}
+}
